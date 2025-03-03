@@ -3,7 +3,7 @@ class Stack {
         this.items = [];
     }
 
-    // Додала елемент до стеку
+    // Додала елемент до стеку.
     addToStack(element) {
         this.items.push(element);
     }
